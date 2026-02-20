@@ -1,6 +1,7 @@
 ## Oi! Me chamo Fernando Gonçalves 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro.
+
 🤖 Focado em Inteligência Artificial | 🎨 Interessado em UX & UI.
 
 ## Um pouco sobre Mim
