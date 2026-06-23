@@ -37,7 +37,10 @@ Busco oportunidades como **Desenvolvedor Júnior com foco em Inteligência Artif
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="margin-right: 15px;"/>
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="margin-right: 15px;"/>
+    <a href="https://n8n.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/n8n" height="60" style="margin-right: 15px;"/>
+</a>
   </a>
 </p>
 
