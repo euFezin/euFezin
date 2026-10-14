@@ -1,7 +1,7 @@
 # Olá, eu sou Fernando Gonçalves Lins
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Graduado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;IA+Aplicada;Desenvolvedor+Back-end+Python;Automa%C3%A7%C3%A3o+de+Processos+com+n8n;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Graduado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;IA+Aplicada;Desenvolvedor+Back-end+Python;Automa%C3%A7%C3%A3o+de+Processos+com+n8n" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,102 +18,108 @@ Atualmente direciono meus estudos para áreas como **Machine Learning, Engenhari
 
 Busco oportunidades como **Desenvolvedor Júnior com foco em Inteligência Artificial, automação e back-end com Python**, visando evoluir tecnicamente e contribuir com soluções inovadoras.
 
-
 ---
 
 ## Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="margin-right: 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" alt="Python" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="margin-right: 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60" alt="Git" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" style="margin-right: 15px;"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" width="60" alt="Postman" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="margin-right: 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60" alt="HTML5" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="margin-right: 15px;"/>
-    <a href="https://n8n.io/" target="_blank">
-  <img src="https://cdn.simpleicons.org/n8n" height="60" style="margin-right: 15px;"/>
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" alt="CSS3" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="60" width="60" alt="n8n" />
   </a>
 </p>
 
-* Inteligência Artificial
-* Python
-* HTML / CSS
-* RAG e LLMs
-* Machine Learning
+- Inteligência Artificial
+- Python
+- HTML / CSS
+- RAG e LLMs
+- Machine Learning
+
 ---
 
 ## Estatísticas GitHub
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=euFezin&color=blueviolet&style=for-the-badge" />
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=euFezin&show_icons=true&theme=tokyonight" style="margin-bottom: 10px;"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=euFezin&layout=compact&theme=tokyonight"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=euFezin.euFezin&left_color=grey&right_color=7C3AED&style=for-the-badge&left_text=PROFILE%20VIEWS" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euFezin&theme=tokyonight" alt="Detalhes e Gráfico de Atividade" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euFezin&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=euFezin&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
 ## Sequência de Contribuições
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=euFezin&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=euFezin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## Objetivos Profissionais
 
-* Desenvolvimento de Soluções com IA
-* Engenharia de Prompt e LLMs
-* Automação de Processos e Workflows
-* Integração de APIs e Modelos de IA
-* Desenvolvimento de APIs REST
-* RAG e Sistemas Inteligentes
-* Machine Learning
-* Processamento e Análise de Dados
+- Desenvolvimento de Soluções com IA
+- Engenharia de Prompt e LLMs
+- Automação de Processos e Workflows
+- Integração de APIs e Modelos de IA
+- Desenvolvimento de APIs REST
+- RAG e Sistemas Inteligentes
+- Machine Learning
+- Processamento e Análise de Dados
 
 ---
 
 ## Certificações e Conhecimentos
 
-* Python
-* Consumo e Integração de APIs
-* FastAPI
-* REST API
-* Git e GitHub
-* Automação de Fluxos com n8n
-* Inteligência Artificial Aplicada
-* Machine Learning
-* Fundamentos de Deep Learning
-* LLMs (Large Language Models)
-* Engenharia de Prompt
-* RAG (Retrieval-Augmented Generation)
-* LangChain
-* Integração de APIs de IA
-* Vetorização e Embeddings
+- Python
+- Consumo e Integração de APIs
+- FastAPI
+- REST API
+- Git e GitHub
+- Automação de Fluxos com n8n
+- Inteligência Artificial Aplicada
+- Machine Learning
+- Fundamentos de Deep Learning
+- LLMs (Large Language Models)
+- Engenharia de Prompt
+- RAG (Retrieval-Augmented Generation)
+- LangChain
+- Integração de APIs de IA
+- Vetorização e Embeddings
 
 ---
 
 ## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/fezin" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 ---
 
 <p align="center">
-   Obrigado por visitar meu perfil!
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/euFezin/euFezin/output/github-contribution-grid-snake-dark.svg" />
+  Obrigado por visitar meu perfil!
 </p>
