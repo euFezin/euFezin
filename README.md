@@ -108,3 +108,12 @@ Busco oportunidades como **Desenvolvedor Júnior com foco em Inteligência Artif
 <a href="https://www.linkedin.com/in/fezin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+---
+
+<p align="center">
+   Obrigado por visitar meu perfil!
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/euFezin/euFezin/output/github-contribution-grid-snake-dark.svg" />
+</p>
