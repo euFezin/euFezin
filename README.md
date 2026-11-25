@@ -121,5 +121,4 @@ Busco oportunidades como **Desenvolvedor Júnior com foco em Inteligência Artif
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil!!
-</p>
+  Obrigado por visitar meu perfil!
